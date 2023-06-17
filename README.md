@@ -4,5 +4,5 @@ Donde user esta protegido con un token para poder realizar las difrentes consult
 Crear usuarios
 Obtener usuarios
 Consultar usuario por ID
-Actualizar  usuario por ID
+Actualizar  usuario por ID y
 Eliminar usuario por ID
